@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_personagem",
-    "path": "sprites/spr_personagem/spr_personagem.yy",
+    "name": "spr_andando_direita",
+    "path": "sprites/spr_andando_direita/spr_andando_direita.yy",
   },
   "spriteMaskId": null,
   "visible": true,
