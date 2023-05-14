@@ -5,6 +5,8 @@
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_cebola","path":"objects/obj_cebola/obj_cebola.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -29,9 +31,12 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_andando_direita",
-    "path": "sprites/spr_andando_direita/spr_andando_direita.yy",
+    "name": "spr_personagem_direita",
+    "path": "sprites/spr_personagem_direita/spr_personagem_direita.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_personagem_direita",
+    "path": "sprites/spr_personagem_direita/spr_personagem_direita.yy",
+  },
   "visible": true,
 }
