@@ -47,4 +47,16 @@ if place_meeting(x, y + vveloc, obj_parede) {
 	}
 	vveloc = 0;
 }	 
-y += vveloc;  	
+y += vveloc;  
+
+
+if alarm[0] > 0 {
+	if image_alpha >= 1 {
+	alpha_hit = -0.05	
+	} else if image_alpha <= 0 {
+	alpha_hit = 0.05	
+	}
+	image_alpha += alpha_hit;
+} else {
+    image_alpha = 1;	
+}
