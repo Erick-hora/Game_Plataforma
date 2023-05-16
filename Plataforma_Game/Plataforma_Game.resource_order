@@ -19,6 +19,7 @@
   "ResourceOrderSettings": [
     {"name":"spr_cebola_esquerda","order":8,"path":"sprites/spr_cebola_esquerda/spr_cebola_esquerda.yy",},
     {"name":"spr_vida","order":6,"path":"sprites/spr_vida/spr_vida.yy",},
+    {"name":"spr_picole","order":10,"path":"sprites/spr_picole/spr_picole.yy",},
     {"name":"obj_parede","order":1,"path":"objects/obj_parede/obj_parede.yy",},
     {"name":"spr_cebola_direita","order":7,"path":"sprites/spr_cebola_direita/spr_cebola_direita.yy",},
     {"name":"spr_parede","order":1,"path":"sprites/spr_parede/spr_parede.yy",},
@@ -28,6 +29,7 @@
     {"name":"spr_personagem_direita","order":2,"path":"sprites/spr_personagem_direita/spr_personagem_direita.yy",},
     {"name":"spr_andando_esquerda","order":5,"path":"sprites/spr_andando_esquerda/spr_andando_esquerda.yy",},
     {"name":"obj_paredeinimigo","order":4,"path":"objects/obj_paredeinimigo/obj_paredeinimigo.yy",},
+    {"name":"obj_picole","order":5,"path":"objects/obj_picole/obj_picole.yy",},
     {"name":"obj_controle","order":2,"path":"objects/obj_controle/obj_controle.yy",},
     {"name":"spr_personagem_esquerda","order":3,"path":"sprites/spr_personagem_esquerda/spr_personagem_esquerda.yy",},
   ],
