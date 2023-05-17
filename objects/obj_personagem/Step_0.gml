@@ -6,6 +6,23 @@ cima = keyboard_check_pressed(ord("W"))
 
 hveloc = (direita - esquerda) * veloc ;
 
+
+if direita{
+	direc = 0;
+	sprite_index = spr_direita_correndo
+} else if esquerda {
+	direc = 1;
+	sprite_index = spr_correndo_esquerda
+} else if direc == 0 {
+	sprite_index = spr_personagem_direita
+	
+}else if direc == 1 {
+sprite_index = spr_personagem_esquerda
+
+}
+
+
+
 if !place_meeting(x, y + 1, obj_parede){
 	vveloc += gravidade;	
 }else {

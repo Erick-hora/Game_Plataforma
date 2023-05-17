@@ -17,10 +17,17 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_controle","order":2,"path":"objects/obj_controle/obj_controle.yy",},
+    {"name":"spr_parede_inimigo","order":8,"path":"sprites/spr_parede_inimigo/spr_parede_inimigo.yy",},
+    {"name":"spr_vida","order":5,"path":"sprites/spr_vida/spr_vida.yy",},
+    {"name":"spr_cebola_andando_direita","order":7,"path":"sprites/spr_cebola_andando_direita/spr_cebola_andando_direita.yy",},
     {"name":"spr_parede","order":4,"path":"sprites/spr_parede/spr_parede.yy",},
+    {"name":"obj_cebola","order":3,"path":"objects/obj_cebola/obj_cebola.yy",},
     {"name":"spr_direita_correndo","order":2,"path":"sprites/spr_direita_correndo/spr_direita_correndo.yy",},
     {"name":"spr_personagem_esquerda","order":1,"path":"sprites/spr_personagem_esquerda/spr_personagem_esquerda.yy",},
     {"name":"spr_correndo_esquerda","order":3,"path":"sprites/spr_correndo_esquerda/spr_correndo_esquerda.yy",},
+    {"name":"obj_parede_inimigo","order":4,"path":"objects/obj_parede_inimigo/obj_parede_inimigo.yy",},
     {"name":"obj_parede","order":1,"path":"objects/obj_parede/obj_parede.yy",},
+    {"name":"spr_cebola_andando_esquerda","order":6,"path":"sprites/spr_cebola_andando_esquerda/spr_cebola_andando_esquerda.yy",},
   ],
 }
