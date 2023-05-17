@@ -16,5 +16,11 @@
     {"name":"Sons","order":3,"path":"folders/Sons.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spr_parede","order":4,"path":"sprites/spr_parede/spr_parede.yy",},
+    {"name":"spr_direita_correndo","order":2,"path":"sprites/spr_direita_correndo/spr_direita_correndo.yy",},
+    {"name":"spr_personagem_esquerda","order":1,"path":"sprites/spr_personagem_esquerda/spr_personagem_esquerda.yy",},
+    {"name":"spr_correndo_esquerda","order":3,"path":"sprites/spr_correndo_esquerda/spr_correndo_esquerda.yy",},
+    {"name":"obj_parede","order":1,"path":"objects/obj_parede/obj_parede.yy",},
+  ],
 }

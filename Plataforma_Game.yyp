@@ -34,7 +34,13 @@
     "IDEVersion": "2023.4.0.84",
   },
   "resources": [
+    {"id":{"name":"obj_personagem","path":"objects/obj_personagem/obj_personagem.yy",},},
     {"id":{"name":"spr_personagem_direita","path":"sprites/spr_personagem_direita/spr_personagem_direita.yy",},},
+    {"id":{"name":"spr_parede","path":"sprites/spr_parede/spr_parede.yy",},},
+    {"id":{"name":"spr_direita_correndo","path":"sprites/spr_direita_correndo/spr_direita_correndo.yy",},},
+    {"id":{"name":"spr_personagem_esquerda","path":"sprites/spr_personagem_esquerda/spr_personagem_esquerda.yy",},},
+    {"id":{"name":"spr_correndo_esquerda","path":"sprites/spr_correndo_esquerda/spr_correndo_esquerda.yy",},},
+    {"id":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
