@@ -16,3 +16,7 @@ if direc == 0 {
 	x -= veloc;	
 	sprite_index = spr_cebola_andando_esquerda
 }	
+
+if vida <= 0 {
+	instance_destroy();
+}	

@@ -18,3 +18,5 @@ vida = 5;
 alpha_hit = 0;
 
 alarm[0] = 0;
+
+estado = scr_personagem_movendo;
