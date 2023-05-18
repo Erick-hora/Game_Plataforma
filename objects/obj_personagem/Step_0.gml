@@ -1,5 +1,8 @@
  /// @description Insert description here
-// You can write your code in this editor
+
+
+
+//movimentação
 direita = keyboard_check(ord("D"));
 esquerda = keyboard_check(ord("A"))
 cima = keyboard_check_pressed(ord("W"))
@@ -50,3 +53,16 @@ vveloc = 0;
 }
 
 y += vveloc;
+
+//combate
+if alarm[0] > 0 {
+ 	if image_alpha >= 1{
+		alpha_hit = -0.05;	
+	} else if image_alpha <= 0 {
+		alpha_hit = 0.05;	
+	}
+}else{
+	image_alpha = 1;	
+}
+
+image_alpha += alpha_hit;

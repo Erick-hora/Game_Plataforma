@@ -16,3 +16,5 @@ veloc = 1.2;
 
 vida = 5;
 alpha_hit = 0;
+
+alarm[0] = 0;
