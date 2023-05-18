@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_cebola",
+  "name": "obj_tomate_projetil",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -12,10 +12,7 @@
     "name": "Objetos",
     "path": "folders/Objetos.yy",
   },
-  "parentObjectId": {
-    "name": "parente_inimigo",
-    "path": "objects/parente_inimigo/parente_inimigo.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -32,12 +29,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_cebola_andando_direita",
-    "path": "sprites/spr_cebola_andando_direita/spr_cebola_andando_direita.yy",
+    "name": "spr_tomate_projetil",
+    "path": "sprites/spr_tomate_projetil/spr_tomate_projetil.yy",
   },
-  "spriteMaskId": {
-    "name": "spr_cebola_andando_direita",
-    "path": "sprites/spr_cebola_andando_direita/spr_cebola_andando_direita.yy",
-  },
+  "spriteMaskId": null,
   "visible": true,
 }

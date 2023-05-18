@@ -1,13 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_personagem",
+  "name": "obj_tomate",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"parente_inimigo","path":"objects/parente_inimigo/parente_inimigo.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_tomate_projetil","path":"objects/obj_tomate_projetil/obj_tomate_projetil.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -15,7 +12,10 @@
     "name": "Objetos",
     "path": "folders/Objetos.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "parente_inimigo",
+    "path": "objects/parente_inimigo/parente_inimigo.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -32,12 +32,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_personagem_direita",
-    "path": "sprites/spr_personagem_direita/spr_personagem_direita.yy",
+    "name": "spr_tomate_atacando_direita",
+    "path": "sprites/spr_tomate_atacando_direita/spr_tomate_atacando_direita.yy",
   },
-  "spriteMaskId": {
-    "name": "spr_personagem_direita",
-    "path": "sprites/spr_personagem_direita/spr_personagem_direita.yy",
-  },
+  "spriteMaskId": null,
   "visible": true,
 }
