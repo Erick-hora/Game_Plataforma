@@ -35,9 +35,11 @@
     {"name":"spr_personagem_atacando_direita","order":9,"path":"sprites/spr_personagem_atacando_direita/spr_personagem_atacando_direita.yy",},
     {"name":"spr_personagem_esquerda","order":1,"path":"sprites/spr_personagem_esquerda/spr_personagem_esquerda.yy",},
     {"name":"spr_correndo_esquerda","order":3,"path":"sprites/spr_correndo_esquerda/spr_correndo_esquerda.yy",},
+    {"name":"spr_morte_tomate","order":14,"path":"sprites/spr_morte_tomate/spr_morte_tomate.yy",},
     {"name":"obj_hitbox","order":5,"path":"objects/obj_hitbox/obj_hitbox.yy",},
     {"name":"obj_parede_inimigo","order":4,"path":"objects/obj_parede_inimigo/obj_parede_inimigo.yy",},
     {"name":"obj_parede","order":1,"path":"objects/obj_parede/obj_parede.yy",},
+    {"name":"spr_morte_cebola","order":15,"path":"sprites/spr_morte_cebola/spr_morte_cebola.yy",},
     {"name":"spr_cebola_andando_esquerda","order":6,"path":"sprites/spr_cebola_andando_esquerda/spr_cebola_andando_esquerda.yy",},
   ],
 }

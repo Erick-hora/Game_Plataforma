@@ -1,5 +1,8 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
+
+event_inherited();
+if vida > 0 {
 if place_meeting(x, y, obj_parede_inimigo){
 	if direc == 0 {
 		direc = 1; 
@@ -17,6 +20,4 @@ if direc == 0 {
 	sprite_index = spr_cebola_andando_esquerda
 }	
 
-if vida <= 0 {
-	instance_destroy();
-}	
+}

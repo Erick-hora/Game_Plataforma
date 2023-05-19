@@ -1,6 +1,7 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
-direc = 0;
+event_inherited();
+
 veloc = 0.4;
 
-vida = 3;
+sprite_morrendo = spr_morte_cebola;
