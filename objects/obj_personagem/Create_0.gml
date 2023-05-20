@@ -23,3 +23,7 @@ alarm[0] = 0;
 inv_tempo = 180;
 
 estado = scr_personagem_movendo;
+
+faca = false;
+
+faca_carga = 0;

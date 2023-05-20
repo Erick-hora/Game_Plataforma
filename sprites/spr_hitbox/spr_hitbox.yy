@@ -4,7 +4,7 @@
   "name": "spr_hitbox",
   "bbox_bottom": 17,
   "bbox_left": 0,
-  "bbox_right": 17,
+  "bbox_right": 16,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 2,

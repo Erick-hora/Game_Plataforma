@@ -7,7 +7,7 @@
   "bbox_right": 22,
   "bbox_top": 10,
   "bboxMode": 2,
-  "collisionKind": 4,
+  "collisionKind": 1,
   "collisionTolerance": 0,
   "DynamicTexturePage": false,
   "edgeFiltering": false,
@@ -33,8 +33,8 @@
   "nineSlice": null,
   "origin": 9,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "sprites_inimigos",
+    "path": "folders/Sprites/sprites_inimigos.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
