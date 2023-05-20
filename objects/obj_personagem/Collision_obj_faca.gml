@@ -2,7 +2,7 @@
 // Você pode escrever seu código neste editor
 if obj_faca.melhoria == true {
 	faca = true;
-	faca_carga = 10;
+	faca_carga = 20;
 }
 
 
