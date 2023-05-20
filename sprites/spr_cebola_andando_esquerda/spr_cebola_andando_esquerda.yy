@@ -3,7 +3,7 @@
   "resourceVersion": "1.0",
   "name": "spr_cebola_andando_esquerda",
   "bbox_bottom": 32,
-  "bbox_left": 1,
+  "bbox_left": 0,
   "bbox_right": 21,
   "bbox_top": 19,
   "bboxMode": 2,
