@@ -12,3 +12,8 @@ if alarm[0] > 0 {
 }
 
 image_alpha += alpha_hit;
+
+
+if vida <= 0 {
+	game_restart();	
+}

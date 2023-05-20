@@ -6,6 +6,8 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":1,"eventType":2,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":2,"eventType":2,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":3,"eventType":2,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -36,9 +38,6 @@
     "name": "spr_cenoura_direita",
     "path": "sprites/spr_cenoura_direita/spr_cenoura_direita.yy",
   },
-  "spriteMaskId": {
-    "name": "spr_cenoura_direita",
-    "path": "sprites/spr_cenoura_direita/spr_cenoura_direita.yy",
-  },
+  "spriteMaskId": null,
   "visible": true,
 }

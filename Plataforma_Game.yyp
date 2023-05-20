@@ -74,6 +74,7 @@
     {"id":{"name":"scr_personagem","path":"scripts/scr_personagem/scr_personagem.yy",},},
     {"id":{"name":"obj_parede_inimigo","path":"objects/obj_parede_inimigo/obj_parede_inimigo.yy",},},
     {"id":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},},
+    {"id":{"name":"scr_cenoura","path":"scripts/scr_cenoura/scr_cenoura.yy",},},
     {"id":{"name":"spr_tile_deco","path":"sprites/spr_tile_deco/spr_tile_deco.yy",},},
     {"id":{"name":"spr_morte_cebola","path":"sprites/spr_morte_cebola/spr_morte_cebola.yy",},},
     {"id":{"name":"spr_cebola_andando_esquerda","path":"sprites/spr_cebola_andando_esquerda/spr_cebola_andando_esquerda.yy",},},

@@ -10,3 +10,5 @@ hit = false;
 sprite_morrendo = 0;
 
 reset = false;
+
+dano = 1;
