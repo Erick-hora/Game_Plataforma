@@ -8,6 +8,8 @@ sprite_morrendo = spr_morte_cenoura;
 
 estado = scr_cenoura_movendo;
 
-alarm[2] = 220;
+_ataque = false
+
+alarm[2] = 0;
 
 alarm[3] = 0;

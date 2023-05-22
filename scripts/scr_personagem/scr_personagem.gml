@@ -29,7 +29,7 @@ if !place_meeting(x, y + 1, obj_parede){
 	vveloc += gravidade;	
 }else {
 if cima {
-	vveloc = -3.0;	
+	vveloc = -2.9;	
 }
 
 }
