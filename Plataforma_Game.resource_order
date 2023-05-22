@@ -55,6 +55,7 @@
     {"name":"scr_cenoura","order":2,"path":"scripts/scr_cenoura/scr_cenoura.yy",},
     {"name":"spr_tile_deco","order":17,"path":"sprites/spr_tile_deco/spr_tile_deco.yy",},
     {"name":"spr_morte_cebola","order":2,"path":"sprites/spr_morte_cebola/spr_morte_cebola.yy",},
+    {"name":"fase2","order":1,"path":"rooms/fase2/fase2.yy",},
     {"name":"spr_cebola_andando_esquerda","order":1,"path":"sprites/spr_cebola_andando_esquerda/spr_cebola_andando_esquerda.yy",},
     {"name":"spr_cenoura_atacando_esquerda","order":25,"path":"sprites/spr_cenoura_atacando_esquerda/spr_cenoura_atacando_esquerda.yy",},
   ],
