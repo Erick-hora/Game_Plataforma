@@ -3,7 +3,7 @@
 direc = 0;
 veloc = 0;
 
-vida = 4;
+vida = 3;
 
 hit = false;
 

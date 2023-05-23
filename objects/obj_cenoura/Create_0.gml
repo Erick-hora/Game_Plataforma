@@ -1,8 +1,16 @@
 /// @description Inserir descrição aqui
-// Você pode escrever seu código neste editor
-event_inherited();
+// Você pode escrever seu código neste editorevent_inherited();
 vida  = 8;
 veloc = 0.6;
+
+direc = 0;
+
+hit = false;
+
+reset = false;
+
+dano = 1;
+
 
 sprite_morrendo = spr_morte_cenoura;
 

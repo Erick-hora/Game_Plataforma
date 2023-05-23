@@ -23,11 +23,10 @@ if direc == 0 {
 } 
 if _ataque == true {
 	image_index = 0;
-
 	estado = scr_cenoura_atacando;
-	alarm[2] = 220;
-
+	alarm[2] = 220
 }
+
 }
 
 
@@ -40,18 +39,24 @@ function scr_cenoura_atacando() {
 		
 	}
 	
-	if alarm[2] <= 0{
-		alarm[3] = 180;
-	}	
-	
-	if alarm[3] > 0 {
+if alarm[2] <= 0 { 
+	if scr_terminando() {
+	estado = scr_cenoura_tonta;
+	alarm[3] = 60;
+	}
+}
+
+}
+
+
+
+function scr_cenoura_tonta() {
 	sprite_index = spr_morte_cenoura;
-	} else if alarm[3] <= 0 {
-	image_index = 0;
-_ataque = false;
+
+if alarm[3] <= 0 {
+	if scr_terminando() {
+		estado = scr_cenoura_movendo;
+		_ataque = false;
+	}
 }
-	
-
-
 }
-
