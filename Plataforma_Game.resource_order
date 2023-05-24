@@ -24,6 +24,7 @@
     {"name":"obj_controle","order":2,"path":"objects/obj_controle/obj_controle.yy",},
     {"name":"spr_tomate_atacando_direita","order":4,"path":"sprites/spr_tomate_atacando_direita/spr_tomate_atacando_direita.yy",},
     {"name":"spr_tile_chao","order":16,"path":"sprites/spr_tile_chao/spr_tile_chao.yy",},
+    {"name":"Menu","order":2,"path":"rooms/Menu/Menu.yy",},
     {"name":"spr_faca","order":7,"path":"sprites/spr_faca/spr_faca.yy",},
     {"name":"parente_inimigo","order":7,"path":"objects/parente_inimigo/parente_inimigo.yy",},
     {"name":"obj_tomate","order":6,"path":"objects/obj_tomate/obj_tomate.yy",},

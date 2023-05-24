@@ -41,6 +41,7 @@
     {"id":{"name":"obj_controle","path":"objects/obj_controle/obj_controle.yy",},},
     {"id":{"name":"spr_tomate_atacando_direita","path":"sprites/spr_tomate_atacando_direita/spr_tomate_atacando_direita.yy",},},
     {"id":{"name":"spr_tile_chao","path":"sprites/spr_tile_chao/spr_tile_chao.yy",},},
+    {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"spr_faca","path":"sprites/spr_faca/spr_faca.yy",},},
     {"id":{"name":"obj_personagem","path":"objects/obj_personagem/obj_personagem.yy",},},
     {"id":{"name":"parente_inimigo","path":"objects/parente_inimigo/parente_inimigo.yy",},},
@@ -83,6 +84,7 @@
     {"id":{"name":"fase1","path":"rooms/fase1/fase1.yy",},},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"fase1","path":"rooms/fase1/fase1.yy",},},
     {"roomId":{"name":"fase2","path":"rooms/fase2/fase2.yy",},},
   ],

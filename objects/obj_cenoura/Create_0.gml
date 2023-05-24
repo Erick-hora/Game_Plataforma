@@ -1,6 +1,6 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editorevent_inherited();
-vida  = 8;
+vida  = 12;
 veloc = 0.6;
 
 direc = 0;

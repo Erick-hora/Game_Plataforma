@@ -30,5 +30,5 @@
     "path": "sprites/spr_parede_passagem/spr_parede_passagem.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }
